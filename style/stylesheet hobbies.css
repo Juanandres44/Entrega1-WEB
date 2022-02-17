@@ -1,0 +1,65 @@
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+  padding-top: 20px;
+  text-align: center;
+  font-weight: bold;
+  border-bottom-style: groove;
+}
+
+#visual {
+  padding-left: 50px;
+}
+
+.a {
+  margin: 80px;
+  margin-top: 30px;
+}
+
+li {
+  padding: 20px;
+  font-size: medium;
+  text-align: justify;
+}
+
+#title2 {
+  margin-bottom: 40px;
+}
+
+.bi-patch-exclamation {
+  padding-left: 10px;
+}
+
+.text {
+  font-size: xx-large;
+  margin-top: 10px;
+  color: #021327;
+}
+
+.text3 {
+  font-size: x-large;
+  margin-top: 10px;
+  color: #021327;
+}
+
+.text4 {
+  font-size: x-large;
+  margin-top: 10px;
+  color: #021327;
+}
+
+#title3 {
+  margin-top: 50px;
+}
+
+#video2 {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.b {
+  margin-top: 30px;
+}
+/*# sourceMappingURL=stylesheet hobbies.css.map */

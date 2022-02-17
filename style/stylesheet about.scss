@@ -1,0 +1,104 @@
+body{
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+div.polaroid {
+  margin: 45px;
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 10px;
+}
+
+p.about{
+  padding-left: 60px;
+  text-align: justify;
+  font-size: 15px;
+  width: 85%;
+}
+
+h1{
+  margin-top: 40px;
+  margin-left: 15px;
+  text-align: center;
+}
+
+.me{
+  border-bottom-style: groove;
+}
+
+#contact{
+  padding: 32px;
+  margin-left: 150px;
+}
+
+.fa-address-card{
+  padding-bottom: 10px;
+}
+
+.fa-birthday-cake{
+  padding-bottom: 10px;
+}
+
+.fa-briefcase{
+  padding-bottom: 10px;
+}
+
+.fa-map-marker{
+  padding-bottom: 10px;
+}
+
+.fa-map-phone{
+  padding-bottom: 10px;
+}
+
+.fa-map-envelope{
+  padding-bottom: 10px;
+}
+
+#social {
+  color:rgb(19, 26, 34);
+  padding: 20px;
+  padding-top: 150px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  margin: 5px 20px;
+}
+
+.fa-facebook{
+  padding: 10px;
+  text-decoration: none;
+}
+
+.fa-instagram{
+  padding: 10px;
+  text-decoration: none;
+}
+
+.fa-twitter{
+  padding: 10px;
+  text-decoration: none;
+}
+
+.fa-youtube{
+  padding: 10px;
+  text-decoration: none;
+}
+
+.fa-google{
+  padding: 10px;
+  text-decoration: none;
+}
+
+.fa-github{
+  padding: 10px;
+  text-decoration: none;
+}
+
+

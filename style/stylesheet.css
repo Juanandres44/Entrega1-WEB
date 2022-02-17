@@ -1,0 +1,309 @@
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+#info {
+  border-right-style: groove;
+}
+
+div.polaroid {
+  margin: 45px;
+  width: 80%;
+  background-color: white;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 10px;
+}
+
+p.about {
+  padding-left: 60px;
+  text-align: justify;
+  font-size: 15px;
+  width: 85%;
+}
+
+h1 {
+  margin-top: 40px;
+  margin-left: 15px;
+  text-align: center;
+}
+
+.rectangle {
+  height: 10px;
+  width: 370px;
+  margin-left: 200px;
+  background-color: darkslategray;
+}
+
+#contact {
+  padding: 32px;
+  margin-left: 150px;
+}
+
+.fa-address-card {
+  padding-bottom: 10px;
+}
+
+.fa-birthday-cake {
+  padding-bottom: 10px;
+}
+
+.fa-briefcase {
+  padding-bottom: 10px;
+}
+
+.fa-map-marker {
+  padding-bottom: 10px;
+}
+
+.fa-map-phone {
+  padding-bottom: 10px;
+}
+
+.fa-map-envelope {
+  padding-bottom: 10px;
+}
+
+#infob {
+  border-right-style: groove;
+}
+
+#social {
+  color: #131a22;
+  padding: 20px;
+  padding-top: 150px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  margin: 5px 20px;
+}
+
+.fa-facebook {
+  padding: 10px;
+  text-decoration: none;
+}
+
+.fa-instagram {
+  padding: 10px;
+  text-decoration: none;
+}
+
+.fa-twitter {
+  padding: 10px;
+  text-decoration: none;
+}
+
+.fa-youtube {
+  padding: 10px;
+  text-decoration: none;
+}
+
+.fa-google {
+  padding: 10px;
+  text-decoration: none;
+}
+
+.fa-github {
+  padding: 10px;
+  text-decoration: none;
+}
+
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+  padding-top: 30px;
+  text-align: center;
+}
+
+.rectangle {
+  height: 10px;
+  width: 30px;
+  margin-left: 120px;
+  background-color: darkslategray;
+}
+
+#col2 {
+  margin-right: 90px;
+}
+
+#rec3 {
+  margin-left: 40px;
+}
+
+#cont1 {
+  margin: 30px;
+  padding-left: 100px;
+}
+
+#skills {
+  padding-right: 300px;
+}
+
+.degree {
+  opacity: 0.7;
+}
+
+.institution {
+  opacity: 0.6;
+}
+
+.time {
+  color: darkslategray;
+  font-weight: bold;
+}
+
+.w3-tag {
+  background-color: darkslategray;
+}
+
+.skill {
+  margin: 35px;
+  padding-left: 10px;
+  font-weight: bold;
+  font-size: medium;
+}
+
+#java {
+  margin-bottom: 30px;
+  background-color: darkslategray;
+}
+
+#html {
+  margin-bottom: 30px;
+  background-color: darkslategray;
+}
+
+#python {
+  margin-bottom: 30px;
+  background-color: darkslategray;
+}
+
+#angular {
+  margin-bottom: 30px;
+  background-color: darkslategray;
+}
+
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+  padding-top: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#visual {
+  padding-left: 50px;
+}
+
+.a {
+  margin: 80px;
+  margin-top: 30px;
+}
+
+li {
+  padding: 20px;
+  font-size: medium;
+  text-align: justify;
+}
+
+.rectangle {
+  height: 5px;
+  width: 370px;
+  margin-left: 220px;
+  background-color: darkslategray;
+}
+
+.song {
+  padding-left: 400px;
+  margin-bottom: 30px;
+}
+
+#title2 {
+  margin-bottom: 40px;
+}
+
+#rec2 {
+  height: 5px;
+  width: 370px;
+  margin-left: 440px;
+  background-color: darkslategray;
+}
+
+.bi-patch-exclamation {
+  padding-left: 10px;
+}
+
+.text {
+  font-size: xx-large;
+  margin-top: 10px;
+  color: #021327;
+}
+
+.text3 {
+  font-size: x-large;
+  margin-top: 10px;
+  color: #021327;
+}
+
+.text4 {
+  font-size: x-large;
+  margin-top: 10px;
+  color: #021327;
+}
+
+#title3 {
+  margin-top: 50px;
+}
+
+#rec3 {
+  height: 5px;
+  width: 370px;
+  margin-left: 440px;
+  background-color: darkslategray;
+}
+
+#video2 {
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-right: 80px;
+}
+
+.b {
+  margin-top: 30px;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+.hero-image {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("https://images.unsplash.com/photo-1514428631868-a400b561ff44?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.unsplash.com/photo-1514428631868-a400b561ff44?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+  height: 91.5%;
+  background-position: 50% 85%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  color: white;
+}
+/*# sourceMappingURL=stylesheet.css.map */
