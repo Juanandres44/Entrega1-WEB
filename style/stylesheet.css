@@ -2,10 +2,6 @@ body {
   font-family: 'Trebuchet MS', sans-serif;
 }
 
-#info {
-  border-right-style: groove;
-}
-
 div.polaroid {
   margin: 45px;
   width: 80%;
@@ -33,11 +29,8 @@ h1 {
   text-align: center;
 }
 
-.rectangle {
-  height: 10px;
-  width: 370px;
-  margin-left: 200px;
-  background-color: darkslategray;
+.me {
+  border-bottom-style: groove;
 }
 
 #contact {
@@ -67,10 +60,6 @@ h1 {
 
 .fa-map-envelope {
   padding-bottom: 10px;
-}
-
-#infob {
-  border-right-style: groove;
 }
 
 #social {
@@ -122,28 +111,9 @@ h2 {
   text-align: center;
 }
 
-.rectangle {
-  height: 10px;
-  width: 30px;
-  margin-left: 120px;
-  background-color: darkslategray;
-}
-
-#col2 {
-  margin-right: 90px;
-}
-
-#rec3 {
-  margin-left: 40px;
-}
-
 #cont1 {
   margin: 30px;
   padding-left: 100px;
-}
-
-#skills {
-  padding-right: 300px;
 }
 
 .degree {
@@ -198,6 +168,7 @@ h1 {
   padding-top: 20px;
   text-align: center;
   font-weight: bold;
+  border-bottom-style: groove;
 }
 
 #visual {
@@ -215,27 +186,8 @@ li {
   text-align: justify;
 }
 
-.rectangle {
-  height: 5px;
-  width: 370px;
-  margin-left: 220px;
-  background-color: darkslategray;
-}
-
-.song {
-  padding-left: 400px;
-  margin-bottom: 30px;
-}
-
 #title2 {
   margin-bottom: 40px;
-}
-
-#rec2 {
-  height: 5px;
-  width: 370px;
-  margin-left: 440px;
-  background-color: darkslategray;
 }
 
 .bi-patch-exclamation {
@@ -264,17 +216,9 @@ li {
   margin-top: 50px;
 }
 
-#rec3 {
-  height: 5px;
-  width: 370px;
-  margin-left: 440px;
-  background-color: darkslategray;
-}
-
 #video2 {
   margin-top: 40px;
   margin-bottom: 30px;
-  margin-right: 80px;
 }
 
 .b {
